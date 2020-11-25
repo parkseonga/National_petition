@@ -3,7 +3,7 @@
 	<title>코드를 통해 유사한 글 모아보기</title>
 
 	<?php
-		$db = mysqli_connect("localhost","root","seonga","national_petition");
+		$db = mysqli_connect("localhost","root",password,"national_petition");
 		
 		if($db)
 			echo "<br/>";
