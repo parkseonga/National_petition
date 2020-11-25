@@ -20,17 +20,24 @@
 
 
 ## 4. Page 구성
-* Mainpage
+### Mainpage
+
 ![image](https://user-images.githubusercontent.com/33725048/100218383-0a37f900-2f58-11eb-89da-59ed59af51c7.png)
 
-* 청원 한눈에 보기 페이지 
+
+
+### 청원 한눈에 보기 페이지 
 ![image](https://user-images.githubusercontent.com/33725048/100219175-06f13d00-2f59-11eb-9554-6672edbd4a4c.png)
 
-* 관심있는 워드클라우드 클릭 후 화면 
+
+
+### 관심있는 워드클라우드 클릭 후 화면 
   * 막대그래프에 커서를 갖다 대면 해당 청원의 요약글이 나타나도록 하였고 클릭하면 해당 청원 게시글로 이동할 수 있도록 설계
 ![image](https://user-images.githubusercontent.com/33725048/100219516-7109e200-2f59-11eb-8559-a58eb86c33e4.png)
 
-* 코드 번호로 유사 글 검색
+
+
+### 코드 번호로 유사 글 검색
   * mainpage의 아랫부분을 참고하여 게시물의 코드 번호를 입력하면 유사한 글들을 모아 청원 동의 수가 가장 많은 순으로 출력
   * 청원이 존재하지 않을 경우 아래와 같은 화면이 출력되고 확인 클릭 시 청원 게시글로 이동할 수 있도록 설계
   ![image](https://user-images.githubusercontent.com/33725048/100219903-f1304780-2f59-11eb-94d0-c4f0d9c1127c.png)
