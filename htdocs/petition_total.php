@@ -4,7 +4,7 @@
 
 	<?php
 
-		$db = mysqli_connect("localhost","root","seonga","national_petition");
+		$db = mysqli_connect("localhost","root",password,"national_petition");
 		if($db)
 			echo "<br/>";
 		else
