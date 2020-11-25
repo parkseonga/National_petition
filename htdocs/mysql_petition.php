@@ -1,7 +1,7 @@
 <?php
 	echo "Mysql petition.petition_daily table<br/>";
 	echo "20171490 Seonga Park<br/>";
-	$db = mysqli_connect("localhost","root","seonga","national_petition");
+	$db = mysqli_connect("localhost","root",password,"national_petition");
 	if($db)
 		echo "connect success<br/>";
 	else
