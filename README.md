@@ -42,3 +42,6 @@
   * 청원이 존재하지 않을 경우 아래와 같은 화면이 출력되고 확인 클릭 시 청원 게시글로 이동할 수 있도록 설계
   ![image](https://user-images.githubusercontent.com/33725048/100219903-f1304780-2f59-11eb-94d0-c4f0d9c1127c.png)
   
+  
+#### 👀 구체적인 설명은 [블로그](https://ssung-22.tistory.com/65)를 참고하세요. 
+  
